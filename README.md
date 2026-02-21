@@ -19,6 +19,7 @@ project/
 │     __init__.py          — реестр доступных отчётов
 │
 └── test/              — тесты для cli, main, read, average_gdp и обработки ошибок
+```
 
 ---
 
